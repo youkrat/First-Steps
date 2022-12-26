@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login Form</title>
+  </head>
+  <body bgcolor=" b;">
+    <h1 style="color: white">Login Info</h1>
+    <form>
+      <img
+        src="./assets/Screenshot_20220329_121144.jpg"
+        alt=""
+        style="height: 9cm"
+        style="width: 4cm"
+      />
+      <h1
+        style="color: grey"
+        style="font-family: Verdana, Geneva, Tahoma, sans-serif"
+        style="font-size: 200%"
+      >
+        Youkratz
+      </h1>
+      <a href="https://ranobes.net/index.php?do=pm" target="_blank"
+        ><p
+          style="color: grey"
+          style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold'"
+        >
+          Messages
+        </p></a
+      >
+      <hr />
+      <a href="https://ranobes.net/favorites/" target="_blank"
+        ><p
+          style="color: grey"
+          style="
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',
+              sans-serif;
+          "
+        >
+          Bookmarks
+        </p></a
+      >
+      <hr />
+      <a href="https://ranobes.net/feeds/chapters/" target="_blank"
+        ><p
+          style="color: grey"
+          style="
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',
+              sans-serif;
+          "
+        >
+          Subscriptions
+        </p></a
+      >
+      <hr />
+      <a href="https://ranobes.net/events/" target="_blank"
+        ><p
+          style="color: grey"
+          style="
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',
+              sans-serif;
+          "
+        >
+          Comments
+        </p></a
+      >
+      <hr />
+      <a href="https://ranobes.net/lastview-chapters.html" target="_blank"
+        ><p
+          style="color: grey"
+          style="
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',
+              sans-serif;
+          "
+          style="text-align: center"
+        >
+          Last viewed chapters
+        </p></a
+      >
+      <hr />
+      <a
+        href="https://ranobes.net/index.php?action=logout"
+        target="_blank"
+        style="color: grey"
+        >Logout</a
+      >
+    </form>
+  </body>
+</html>
